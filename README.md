@@ -5,7 +5,7 @@
 
 ## 效果图
 
-![效果图](https://www.strongyang.com/static/imageViewer/img/sample.png)
+![效果图](https://www.strongyang.com/static/imageViewer/img/sample1.png)
 
 ## 演示地址
 
